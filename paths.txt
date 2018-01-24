@@ -1,0 +1,6 @@
+C:\Users\Farouk\Desktop\NNProject-V2\Dataset\
+C:\Users\Farouk\Desktop\NNProject-V2\sampleTest.txt
+C:\Users\Farouk\Desktop\NNProject-V2\R0_NoMSE_B.txt
+C:\Users\Farouk\Desktop\NNProject-V2\BP_80.6P.txt
+C:\Users\Farouk\Desktop\NNProject-V2\BP_84.9P.txt
+C:\Users\Farouk\Desktop\NNProject-V2\BP_89.6P.txt
